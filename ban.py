@@ -74,8 +74,8 @@ async def start_command(event):
         "Welcome to the Ban All Bot!\n"
         "This bot is designed to ban and unban users in groups",
         buttons=[
-            [Button.url("Support Channel", url="https://t.me/Dil_Ka_Ehsaas")],
-            [Button.url("Support Group", url="https://t.me/ArmanChatz")],
+            [Button.url("sᴜᴘᴘᴏʀᴛ🌱ᴄʜᴀɴɴᴇʟ", url="https://t.me/angel_world11")],
+            [Button.url("🌱ᴏᴡɴᴇʀ🦄", url="https://t.me/PAWAN_IS_BACK")],
         ],
         file='https://graph.org/file/c2bbf86829c894cfa3b14.jpg',  # Replace with your image URL
     )
