@@ -77,7 +77,7 @@ async def start_command(event):
             [Button.url("sᴜᴘᴘᴏʀᴛ🌱ᴄʜᴀɴɴᴇʟ", url="https://t.me/angel_world11")],
             [Button.url("🌱ᴏᴡɴᴇʀ🦄", url="https://t.me/PAWAN_IS_BACK")],
         ],
-        file='https://graph.org/file/c2bbf86829c894cfa3b14.jpg',  # Replace with your image URL
+        file='https://telegra.ph/file/ebd5c5ed44eac3f89af88.jpg',  # Replace with your image URL
     )
 
 
