@@ -75,7 +75,7 @@ async def start_command(event):
         "This bot is designed to ban and unban users in groups",
         buttons=[
             [Button.url("sᴜᴘᴘᴏʀᴛ🌱ᴄʜᴀɴɴᴇʟ", url="https://t.me/angel_world11")],
-            [Button.url("🌱ᴏᴡɴᴇʀ🦄", url="https://t.me/PAWAN_IS_BACK")],
+            [Button.url("🌱ᴏᴡɴᴇʀ🦄", url="https://t.me/MR_MIEN_OP")],
         ],
         file='https://telegra.ph/file/ebd5c5ed44eac3f89af88.jpg',  # Replace with your image URL
     )
